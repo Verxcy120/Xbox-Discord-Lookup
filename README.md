@@ -19,23 +19,7 @@ discord.js
 
 prismarine-auth**
 
-_______________________________
-
-_
-_
-_
-_
-
-
-
-
-
-
-
-
-
-
-![My Image](https://i.ibb.co/5skjSLN/8a8bba5b5ad5.png)
+-
 _________________________________________
 
 forgot to add this
